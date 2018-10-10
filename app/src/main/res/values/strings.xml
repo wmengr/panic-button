@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Panic Button</string>
+    <string name="title_contact">Contacts</string>
+    <string name="status_activated">Activated</string>
+    <string name="status_deactivated">Deactivated</string>
+    <string name="status_scanning">Scanning</string>
+    <string name="contact_favorite">\u2606</string>
+</resources>
