@@ -88,7 +88,7 @@ The android app fires actions based on signals received from the panic button.
 
 ![alt text](https://github.com/wmeng101/panic-button/blob/master/images/map2.png "us_map")
 
-2. Zommed-in Map of San Jose:
+2. Zoomed-in Map of San Jose:
 
 ![alt text](https://github.com/wmeng101/panic-button/blob/master/images/map1.png "san_jose_map")
 
