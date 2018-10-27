@@ -18,7 +18,6 @@ import android.widget.Button;
 import android.widget.ListView;
 import android.widget.SimpleAdapter;
 
-
 import com.wm.panicbutton.R;
 import com.wm.panicbutton.helpers.Constants;
 
